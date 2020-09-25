@@ -1,0 +1,14 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <TargetFramework>netstandard2.0</TargetFramework>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <Folder Include="BaseClass\" />
+    <Folder Include="BusinessLogic\" />
+    <Folder Include="Helper\" />
+    <Folder Include="Plugins\" />
+  </ItemGroup>
+
+</Project>

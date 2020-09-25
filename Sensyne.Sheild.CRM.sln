@@ -1,0 +1,37 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30517.126
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Sensyne.Shield.CRM.Plugins", "Sensyne.Shield.CRM.Plugins\Sensyne.Shield.CRM.Plugins.csproj", "{E1A742AD-A252-4DE3-9513-FAD0E4975F8F}"
+EndProject
+Project("{F184B08F-C81C-45F6-A57F-5ABD9991F28F}") = "Sensyne.Shield.CRM.WebResources", "Sensyne.Shield.CRM.WebResources\Sensyne.Shield.CRM.WebResources.vbproj", "{9B3B56C4-F7E6-40F0-B8EA-DA42ABECDC7D}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Sensyne.Shield.CRM.AF.Core", "Sensyne.Shield.CRM.AF.Core\Sensyne.Shield.CRM.AF.Core.csproj", "{F789F2EF-7D29-4296-B0B8-58A9A453F54A}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{E1A742AD-A252-4DE3-9513-FAD0E4975F8F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{E1A742AD-A252-4DE3-9513-FAD0E4975F8F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{E1A742AD-A252-4DE3-9513-FAD0E4975F8F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{E1A742AD-A252-4DE3-9513-FAD0E4975F8F}.Release|Any CPU.Build.0 = Release|Any CPU
+		{9B3B56C4-F7E6-40F0-B8EA-DA42ABECDC7D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{9B3B56C4-F7E6-40F0-B8EA-DA42ABECDC7D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{9B3B56C4-F7E6-40F0-B8EA-DA42ABECDC7D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{9B3B56C4-F7E6-40F0-B8EA-DA42ABECDC7D}.Release|Any CPU.Build.0 = Release|Any CPU
+		{F789F2EF-7D29-4296-B0B8-58A9A453F54A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F789F2EF-7D29-4296-B0B8-58A9A453F54A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F789F2EF-7D29-4296-B0B8-58A9A453F54A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F789F2EF-7D29-4296-B0B8-58A9A453F54A}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {897BA730-44B7-4298-8DC4-8520C35A04EA}
+	EndGlobalSection
+EndGlobal

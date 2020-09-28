@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "ioKzvNeUF7IN4+5JkwQnQYpdPsld9iT/O1sSay0ohLi0XW72rW8Jkn/UTakLMWJFlTJZgMhPx69ERD6Ex0ctvw==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\594578\\source\\repos\\draysontechnologies\\shield\\Sensyne.Sheild.CRM\\Sensyne.Shield.CRM.Plugins\\Sensyne.Shield.CRM.Plugins.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\594578\\.nuget\\packages\\microsoft.netcore.platforms\\1.1.0\\microsoft.netcore.platforms.1.1.0.nupkg.sha512",
+    "C:\\Users\\594578\\.nuget\\packages\\netstandard.library\\2.0.3\\netstandard.library.2.0.3.nupkg.sha512"
+  ],
+  "logs": []
+}
